@@ -1,9 +1,13 @@
 # screenshooter
 
 ## Build
+
 1. Install Go 1.16
+
 2. `git clone repo`
+
 3. `go mod vendor`
+
 4.Change const in client/app.go
 
 ```go
